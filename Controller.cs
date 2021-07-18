@@ -100,6 +100,3 @@ public class Controller : MonoBehaviour
         animator.SetFloat(VelocityXHash, velocityX);
         animator.SetFloat(VelocityZHash, velocityZ);
     }
-
-
-}
